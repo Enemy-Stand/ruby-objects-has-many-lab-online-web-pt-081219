@@ -21,4 +21,6 @@ class Artist
     add_song(song)
   end
   
+  def
+  
 end
