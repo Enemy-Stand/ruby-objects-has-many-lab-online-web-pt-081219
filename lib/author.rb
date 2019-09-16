@@ -22,7 +22,7 @@ class Author
   end
   
   def songs
-    Post.all.select {|| . == self}
+    Post.all.select {|post| . == self}
   end
   
   def self.post_count
