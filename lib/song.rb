@@ -5,8 +5,6 @@ class Song
     @name = name
   end
   
-  @@all = []
-  
   def self.all
     @@all
   end
