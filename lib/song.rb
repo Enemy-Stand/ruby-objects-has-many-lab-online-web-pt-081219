@@ -11,6 +11,6 @@ class Song
     @@all
   end
   
-  def song.new
+  def 
   
 end
