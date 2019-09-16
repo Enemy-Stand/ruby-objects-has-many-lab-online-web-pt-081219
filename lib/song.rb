@@ -4,4 +4,10 @@ class Song
   def initialize(name)
     @name = name
   end
+  
+  @@all = []
+  
+  def all
+    @@all
+  end
 end
