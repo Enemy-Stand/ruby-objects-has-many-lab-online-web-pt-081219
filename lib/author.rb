@@ -12,7 +12,7 @@ class Author
     @@all
   end
   
-  def add_()
+  def add_post(post)
      = self
   end
   
