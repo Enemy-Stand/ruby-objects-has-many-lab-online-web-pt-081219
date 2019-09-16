@@ -12,9 +12,7 @@ class Song
   end
   
   def artist_name
-    if artist
-      artist_name
-    end
+    artist_name if artist
   end
   
 end
